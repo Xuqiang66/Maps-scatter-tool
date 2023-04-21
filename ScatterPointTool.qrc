@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ScatterPointTool">
+        <file>mymap_scatterpoint.html</file>
+        <file>qwebchannel.js</file>
+    </qresource>
+</RCC>
